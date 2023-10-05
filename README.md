@@ -19,9 +19,13 @@ complément à deux de ce résultat.
 
 Quelle est la valeur de checksum attendue pour les constantes définies?
 
+``` 0000 0101 ```
+
 ### Question 4
 
 Sauvegarder le chronogramme (capture d'écran). Quelles observations peut-on faire?
+
+![Export](Chronogramme.png)
 
 Selon quelles conditions la sortie *VerifyIntegrity* passe-t-elle à 1?
 
