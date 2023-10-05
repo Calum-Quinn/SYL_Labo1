@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project integrity="34ceab0d88867b5fb9c02fa4313652219282ba21" source="2.16.8.t" version="1.0">
+<project integrity="45e2c5bb98fa2e5af362c66249b7f45686190c0c" source="2.16.8.t" version="1.0">
   This file is intended to be loaded by Logisim-evolution (https://github.com/reds-heig/logisim-evolution).
 
   <lib desc="#Wiring" name="0"/>
@@ -484,20 +484,20 @@ end TCL_Generic;
     <a name="clabelfont" val="SansSerif bold 12"/>
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitvhdlpath" val=""/>
-    <wire from="(410,260)" to="(470,260)"/>
-    <wire from="(600,400)" to="(640,400)"/>
-    <wire from="(410,240)" to="(410,260)"/>
-    <wire from="(600,320)" to="(600,400)"/>
-    <wire from="(590,300)" to="(760,300)"/>
     <wire from="(400,340)" to="(490,340)"/>
+    <wire from="(410,260)" to="(470,260)"/>
     <wire from="(410,240)" to="(630,240)"/>
     <wire from="(470,300)" to="(490,300)"/>
     <wire from="(470,260)" to="(470,300)"/>
     <wire from="(270,260)" to="(410,260)"/>
     <wire from="(700,380)" to="(770,380)"/>
+    <wire from="(600,400)" to="(640,400)"/>
     <wire from="(630,240)" to="(630,360)"/>
+    <wire from="(410,240)" to="(410,260)"/>
     <wire from="(290,340)" to="(370,340)"/>
+    <wire from="(600,320)" to="(600,400)"/>
     <wire from="(290,320)" to="(490,320)"/>
+    <wire from="(590,300)" to="(760,300)"/>
     <wire from="(590,320)" to="(600,320)"/>
     <wire from="(630,360)" to="(640,360)"/>
     <comp lib="0" loc="(760,300)" name="Pin">
@@ -591,33 +591,33 @@ end TCL_Generic;
     <a name="clabelfont" val="SansSerif bold 12"/>
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitvhdlpath" val=""/>
+    <wire from="(320,360)" to="(380,360)"/>
+    <wire from="(440,380)" to="(500,380)"/>
     <wire from="(240,210)" to="(240,280)"/>
+    <wire from="(640,210)" to="(640,350)"/>
     <wire from="(610,390)" to="(660,390)"/>
+    <wire from="(240,280)" to="(300,280)"/>
     <wire from="(300,380)" to="(300,390)"/>
+    <wire from="(390,300)" to="(510,300)"/>
+    <wire from="(300,370)" to="(300,380)"/>
+    <wire from="(300,390)" to="(300,400)"/>
     <wire from="(610,320)" to="(610,390)"/>
+    <wire from="(390,280)" to="(390,300)"/>
+    <wire from="(720,340)" to="(760,340)"/>
     <wire from="(720,340)" to="(720,370)"/>
+    <wire from="(260,430)" to="(360,430)"/>
     <wire from="(260,400)" to="(260,430)"/>
     <wire from="(360,400)" to="(360,430)"/>
+    <wire from="(300,280)" to="(300,370)"/>
+    <wire from="(300,280)" to="(390,280)"/>
+    <wire from="(610,300)" to="(760,300)"/>
     <wire from="(640,350)" to="(660,350)"/>
+    <wire from="(360,400)" to="(380,400)"/>
     <wire from="(500,340)" to="(500,380)"/>
     <wire from="(500,340)" to="(510,340)"/>
     <wire from="(160,280)" to="(240,280)"/>
     <wire from="(180,400)" to="(260,400)"/>
     <wire from="(240,210)" to="(640,210)"/>
-    <wire from="(320,360)" to="(380,360)"/>
-    <wire from="(440,380)" to="(500,380)"/>
-    <wire from="(640,210)" to="(640,350)"/>
-    <wire from="(240,280)" to="(300,280)"/>
-    <wire from="(390,300)" to="(510,300)"/>
-    <wire from="(300,370)" to="(300,380)"/>
-    <wire from="(300,390)" to="(300,400)"/>
-    <wire from="(390,280)" to="(390,300)"/>
-    <wire from="(720,340)" to="(760,340)"/>
-    <wire from="(260,430)" to="(360,430)"/>
-    <wire from="(300,280)" to="(300,370)"/>
-    <wire from="(300,280)" to="(390,280)"/>
-    <wire from="(610,300)" to="(760,300)"/>
-    <wire from="(360,400)" to="(380,400)"/>
     <wire from="(180,320)" to="(510,320)"/>
     <comp lib="0" loc="(760,300)" name="Pin">
       <a name="facing" val="west"/>
@@ -890,33 +890,33 @@ end TCL_Generic;
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitvhdlpath" val=""/>
     <wire from="(230,180)" to="(290,180)"/>
+    <wire from="(250,120)" to="(370,120)"/>
+    <wire from="(200,150)" to="(250,150)"/>
     <wire from="(610,100)" to="(610,170)"/>
     <wire from="(540,230)" to="(580,230)"/>
+    <wire from="(220,100)" to="(330,100)"/>
     <wire from="(330,70)" to="(330,100)"/>
     <wire from="(330,100)" to="(370,100)"/>
+    <wire from="(250,120)" to="(250,150)"/>
+    <wire from="(330,70)" to="(560,70)"/>
     <wire from="(560,190)" to="(580,190)"/>
+    <wire from="(200,220)" to="(290,220)"/>
+    <wire from="(540,120)" to="(540,230)"/>
     <wire from="(350,140)" to="(370,140)"/>
     <wire from="(610,170)" to="(640,170)"/>
+    <wire from="(640,210)" to="(670,210)"/>
     <wire from="(560,70)" to="(560,190)"/>
     <wire from="(470,100)" to="(610,100)"/>
     <wire from="(140,100)" to="(150,100)"/>
     <wire from="(160,100)" to="(170,100)"/>
     <wire from="(180,100)" to="(190,100)"/>
-    <wire from="(200,100)" to="(210,100)"/>
-    <wire from="(470,120)" to="(540,120)"/>
-    <wire from="(250,120)" to="(370,120)"/>
-    <wire from="(200,150)" to="(250,150)"/>
-    <wire from="(220,100)" to="(330,100)"/>
-    <wire from="(250,120)" to="(250,150)"/>
-    <wire from="(330,70)" to="(560,70)"/>
-    <wire from="(200,220)" to="(290,220)"/>
-    <wire from="(540,120)" to="(540,230)"/>
-    <wire from="(640,210)" to="(670,210)"/>
     <wire from="(150,100)" to="(160,100)"/>
     <wire from="(170,100)" to="(180,100)"/>
     <wire from="(190,100)" to="(200,100)"/>
+    <wire from="(200,100)" to="(210,100)"/>
     <wire from="(210,100)" to="(220,100)"/>
     <wire from="(350,140)" to="(350,200)"/>
+    <wire from="(470,120)" to="(540,120)"/>
     <wire from="(230,120)" to="(230,180)"/>
     <comp lib="0" loc="(200,150)" name="Pin">
       <a name="width" val="8"/>
@@ -1141,6 +1141,29 @@ end TCL_Generic;
     <a name="clabelfont" val="SansSerif bold 12"/>
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitvhdlpath" val=""/>
+    <wire from="(270,170)" to="(330,170)"/>
+    <wire from="(590,170)" to="(640,170)"/>
+    <wire from="(250,150)" to="(250,160)"/>
+    <wire from="(590,110)" to="(630,110)"/>
+    <wire from="(640,170)" to="(640,260)"/>
+    <wire from="(430,130)" to="(430,220)"/>
+    <wire from="(430,220)" to="(460,220)"/>
+    <wire from="(530,240)" to="(550,240)"/>
+    <wire from="(120,230)" to="(270,230)"/>
+    <wire from="(120,260)" to="(460,260)"/>
+    <wire from="(120,130)" to="(330,130)"/>
+    <wire from="(250,150)" to="(330,150)"/>
+    <wire from="(590,110)" to="(590,170)"/>
+    <wire from="(270,170)" to="(270,230)"/>
+    <wire from="(560,260)" to="(570,260)"/>
+    <wire from="(570,260)" to="(580,260)"/>
+    <wire from="(580,260)" to="(590,260)"/>
+    <wire from="(120,160)" to="(250,160)"/>
+    <wire from="(590,260)" to="(600,260)"/>
+    <wire from="(600,260)" to="(610,260)"/>
+    <wire from="(610,260)" to="(620,260)"/>
+    <wire from="(620,260)" to="(630,260)"/>
+    <wire from="(630,260)" to="(640,260)"/>
     <comp lib="0" loc="(120,130)" name="Pin">
       <a name="width" val="8"/>
       <a name="label" val="a_i"/>
@@ -1187,6 +1210,135 @@ end TCL_Generic;
       <a name="version" val="2.14.8.t"/>
       <a name="uuid" val="d0c7c4c8-411f-4668-94d9-264935b92a21"/>
       <a name="integrity" val="fdce2ae45b75991db0b49d6b704447b3b59f6663"/>
+    </comp>
+    <comp loc="(430,130)" name="Checksum"/>
+    <comp lib="1" loc="(530,240)" name="XNOR Gate">
+      <a name="width" val="8"/>
+      <a name="owner" val="calum_quinn"/>
+      <a name="date" val="05.10.23 10:39:21"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="764a8ef6-f264-4085-9d65-995f38ae6830"/>
+      <a name="integrity" val="94369e3b49b8c3824c300502527c5a114b54691a"/>
+    </comp>
+    <comp lib="0" loc="(550,240)" name="Splitter">
+      <a name="facing" val="south"/>
+      <a name="fanout" val="8"/>
+      <a name="incoming" val="8"/>
+      <a name="owner" val="calum_quinn"/>
+      <a name="date" val="05.10.23 10:42:55"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="1a6eba66-2c68-468d-b2cc-54471d64cdf5"/>
+      <a name="integrity" val="ca5eb1919bf90e147d324e7d7ec392562fcd8fc2"/>
+    </comp>
+    <comp lib="8" loc="(346,346)" name="Text">
+      <a name="text" val="Peu importe lequel est le checksum, si on aditionne les autres sans carry ça donne le 4ème"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="7" loc="(4,50)" name="Text" trackercomp="true">
+      <a name="text" val="Attention, votre version de Logisim"/>
+      <a name="font" val="SansSerif plain 48"/>
+      <a name="halign" val="left"/>
+    </comp>
+    <comp lib="7" loc="(4,100)" name="Text" trackercomp="true">
+      <a name="text" val="ne contient pas de tracker. Si vous"/>
+      <a name="font" val="SansSerif plain 48"/>
+      <a name="halign" val="left"/>
+    </comp>
+    <comp lib="7" loc="(4,150)" name="Text" trackercomp="true">
+      <a name="text" val="enregistrez votre projet, toutes les"/>
+      <a name="font" val="SansSerif plain 48"/>
+      <a name="halign" val="left"/>
+    </comp>
+    <comp lib="7" loc="(4,200)" name="Text" trackercomp="true">
+      <a name="text" val="informations du tracker seront"/>
+      <a name="font" val="SansSerif plain 48"/>
+      <a name="halign" val="left"/>
+    </comp>
+    <comp lib="7" loc="(4,250)" name="Text" trackercomp="true">
+      <a name="text" val="définitivement effacées."/>
+      <a name="font" val="SansSerif plain 48"/>
+      <a name="halign" val="left"/>
+    </comp>
+  </circuit>
+  <circuit name="Chronogramme">
+    <a name="circuit" val="Chronogramme"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif bold 12"/>
+    <a name="circuitnamedbox" val="true"/>
+    <a name="circuitvhdlpath" val=""/>
+    <wire from="(310,240)" to="(370,240)"/>
+    <wire from="(60,380)" to="(90,380)"/>
+    <wire from="(60,350)" to="(90,350)"/>
+    <wire from="(290,440)" to="(320,440)"/>
+    <wire from="(60,300)" to="(310,300)"/>
+    <wire from="(320,260)" to="(370,260)"/>
+    <wire from="(90,350)" to="(90,360)"/>
+    <wire from="(570,200)" to="(630,200)"/>
+    <wire from="(290,200)" to="(290,210)"/>
+    <wire from="(320,260)" to="(320,440)"/>
+    <wire from="(60,250)" to="(300,250)"/>
+    <wire from="(290,200)" to="(370,200)"/>
+    <wire from="(90,380)" to="(90,400)"/>
+    <wire from="(90,400)" to="(100,400)"/>
+    <wire from="(90,380)" to="(100,380)"/>
+    <wire from="(90,360)" to="(100,360)"/>
+    <wire from="(90,350)" to="(100,350)"/>
+    <wire from="(310,240)" to="(310,300)"/>
+    <wire from="(60,440)" to="(100,440)"/>
+    <wire from="(60,410)" to="(100,410)"/>
+    <wire from="(300,220)" to="(300,250)"/>
+    <wire from="(60,210)" to="(290,210)"/>
+    <wire from="(300,220)" to="(370,220)"/>
+    <comp lib="0" loc="(60,210)" name="Constant">
+      <a name="width" val="8"/>
+      <a name="value" val="0xf0"/>
+    </comp>
+    <comp lib="0" loc="(60,250)" name="Constant">
+      <a name="width" val="8"/>
+      <a name="value" val="0xf"/>
+    </comp>
+    <comp lib="0" loc="(60,300)" name="Constant">
+      <a name="width" val="8"/>
+      <a name="value" val="0xfc"/>
+    </comp>
+    <comp loc="(570,200)" name="VerifyIntegrity"/>
+    <comp lib="4" loc="(100,330)" name="Counter"/>
+    <comp lib="0" loc="(60,440)" name="Constant">
+      <a name="width" val="8"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(60,410)" name="Clock">
+      <a name="highDuration" val="4"/>
+      <a name="lowDuration" val="4"/>
+      <a name="label" val="clk"/>
+      <a name="owner" val="calum_quinn"/>
+      <a name="date" val="30.09.23 14:25:01"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="2d62bddd-a52b-4f25-b149-92d9749ec27d"/>
+      <a name="integrity" val="e16c589f3ce9b6f1d76fd735dc4fe1d6270ac95d"/>
+    </comp>
+    <comp lib="0" loc="(60,380)" name="Constant"/>
+    <comp lib="0" loc="(60,350)" name="Constant">
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(630,200)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+      <a name="owner" val="calum_quinn"/>
+      <a name="date" val="05.10.23 10:53:39"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="311e84fb-8725-4bfc-8e0e-c8b1b42a0ddc"/>
+      <a name="integrity" val="ac297ea9a068a143bc2f2ff2112da7480925924c"/>
+    </comp>
+    <comp lib="0" loc="(70,530)" name="Clock">
+      <a name="label" val="sysclk"/>
+      <a name="owner" val="calum_quinn"/>
+      <a name="date" val="30.09.23 14:26:30"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="fe6d7959-a942-42ed-8e8b-40c2a89a4ec4"/>
+      <a name="integrity" val="086d078fabd61a519a3a7368ecdbb7e7a0105643"/>
     </comp>
     <comp lib="7" loc="(4,50)" name="Text" trackercomp="true">
       <a name="text" val="Attention, votre version de Logisim"/>
