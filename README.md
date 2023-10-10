@@ -42,5 +42,3 @@ Il y a un court moment lorsque la sortie du *VerifyIntegrity* est à ```1```.
 #### Selon quelles conditions la sortie *VerifyIntegrity* passe-t-elle à 1?
 
 La sortie du *VerifyIntegrity* est à 1 lorsque le compteur atteint la valeur de CheckSum des trois autres entrées.
-
-#### Expliquer votre raisonnement dans le rapport au format *.pdf*.
