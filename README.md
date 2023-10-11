@@ -43,4 +43,6 @@ Il y a un court moment lorsque la sortie du *VerifyIntegrity* est à ```1```.
 
 #### Selon quelles conditions la sortie *VerifyIntegrity* passe-t-elle à 1?
 
-La sortie du *VerifyIntegrity* est à 1 lorsque le compteur atteint la valeur de CheckSum des trois autres entrées.
+On peut voir que les entrées a, b et c sont fixes, car ce sont des constantes. Seulement l'entrée d varie, car c'est un compteur. La sortie est a zéro, sauf pour une valeur (5) de d.
+
+La sortie VerifyIntegrity passe à 1 si d correspond au modular sum des entrées a, b et c.
