@@ -15,6 +15,7 @@ Exemple: Si on additionne deux 1 en binaire sans le bit de carry ça va nous don
 #### A partir de la définition proposée, expliquer ce qu'est un *modular sum* à l'aide d'un schéma ou d'une explication simple.
 
 "*Un `modular sum` se calcule en additionnant les données entre elles sans carry puis en effectuant le complément à deux de ce résultat.*"
+
 Un modular sum représente la formule: `A + B + C = -D` car en binaire le complément à deux représente simplement la négative d'un nombre. Donc pour montrer que l'ordre dans un modular sum n'est pas important on peut faire des transformations basiques pour arriver à la conclusion que `A + B + C + D = 0`.
 
 <br>
